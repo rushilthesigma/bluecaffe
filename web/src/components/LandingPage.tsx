@@ -7,16 +7,16 @@ import { BlueCaffeLogo } from './BlueCaffeLogo';
 
 const FEATURES: { title: string; body: string }[] = [
   {
-    title: 'Drawn on the GPU',
-    body: 'A WebGPU compositor paints every frame on the graphics card, with a Canvas2D fallback when it is not available.',
+    title: 'GPU compositor',
+    body: 'WebGPU renders every frame on the graphics card. Canvas2D fallback when WebGPU is unavailable.',
   },
   {
-    title: 'A real timeline',
-    body: 'Stack video, audio, and titles across tracks. Split, trim, and snap clips; they ripple instead of overlapping.',
+    title: 'Timeline',
+    body: 'Video, audio, and title tracks. Trim, split, and snap clips; they ripple on overlap.',
   },
   {
     title: 'Grade and animate',
-    body: 'Per-clip color filters, push transitions, and keyframes for scale, position, and opacity. Export a frame or the whole cut.',
+    body: 'Color filters, push transitions, and keyframes for scale, position, and opacity per clip.',
   },
 ];
 
@@ -38,10 +38,6 @@ export function LandingPage() {
           <span>BlueCaffe</span>
         </div>
         <h1 className="lp-title">A video editor that runs in the browser.</h1>
-        <p className="lp-sub">
-          BlueCaffe cuts, grades, and renders on a multi-track timeline, drawing
-          each frame on your GPU. Nothing to install.
-        </p>
         <div className="lp-cta">
           <button className="btn primary lp-go" onClick={() => setView('home')}>
             Open BlueCaffe
