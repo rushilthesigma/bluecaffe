@@ -8,18 +8,22 @@ import { RightDock } from './components/RightDock';
 import { ProjectViewer } from './components/ProjectViewer';
 import { LandingPage } from './components/LandingPage';
 import { TutorialOverlay } from './components/TutorialOverlay';
+import { enableLocalMode } from './api';
+import { initLocal } from './local/engine';
 
 export function App() {
   const connect = useStore((s) => s.connect);
   const view = useStore((s) => s.view);
 
   useEffect(() => {
-    // bootstrap from REST, then keep live over WS
     fetch('/api/state')
-      .then((r) => r.json())
-      .then((s) => useStore.getState().applyServer(s))
-      .catch(() => {});
-    connect();
+      .then((r) => (r.ok ? r.json() : Promise.reject()))
+      .then((s) => { useStore.getState().applyServer(s); connect(); })
+      .catch(() => {
+        // No server — run entirely in the browser with localStorage persistence.
+        enableLocalMode();
+        useStore.getState().applyServer(initLocal());
+      });
   }, [connect]);
 
   // The landing page is the first surface; from there you open the launcher.
