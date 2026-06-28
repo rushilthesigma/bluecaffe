@@ -1,0 +1,3210 @@
+{
+  "rev": 1132,
+  "currentProjectId": "prj_JXizpaZ-",
+  "projects": [
+    {
+      "id": "prj_OkpJUBrk",
+      "name": "Untitled Deck",
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "tracks": [
+        {
+          "id": "trk_g5Km3bzv",
+          "name": "V7",
+          "index": 0
+        },
+        {
+          "id": "trk_lfDUfjGA",
+          "name": "V6",
+          "index": 1
+        },
+        {
+          "id": "trk_DCSerxTu",
+          "name": "V5",
+          "index": 2
+        },
+        {
+          "id": "trk_57D2eqm_",
+          "name": "V4",
+          "index": 3
+        },
+        {
+          "id": "trk_ajZILupI",
+          "name": "V3",
+          "index": 4
+        },
+        {
+          "id": "trk_Nuebzm0W",
+          "name": "V2",
+          "index": 5
+        },
+        {
+          "id": "trk_fCKDv5fa",
+          "name": "V1",
+          "index": 6
+        }
+      ],
+      "clips": [
+        {
+          "id": "clp_bGh5s5XY",
+          "trackId": "trk_Nuebzm0W",
+          "assetId": "ast_XDOaUanw",
+          "name": "Big Buck Bunny",
+          "start": 30,
+          "duration": 8,
+          "inPoint": 0,
+          "sourceDuration": 10,
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "fadeIn": 0,
+          "fadeOut": 0,
+          "hue": 210,
+          "brightness": 1,
+          "color": "#6b8aa8",
+          "src": "/uploads/vid_q0I90ENC.mp4",
+          "saturation": 1,
+          "contrast": 1,
+          "temperature": 0,
+          "filter": "none",
+          "loop": false,
+          "rotation": 0,
+          "transInDur": 0.6,
+          "transIn": "none"
+        }
+      ],
+      "createdAt": "2026-06-27T09:33:55.931Z",
+      "updatedAt": "2026-06-27T12:37:40.101Z",
+      "assets": [
+        {
+          "id": "ast_1ynplWjQ",
+          "name": "Aurora",
+          "kind": "procedural",
+          "hue": 200,
+          "color": "#3b82f6",
+          "duration": 12
+        },
+        {
+          "id": "ast_pDST_VcX",
+          "name": "Ember",
+          "kind": "procedural",
+          "hue": 18,
+          "color": "#f97316",
+          "duration": 9
+        },
+        {
+          "id": "ast_SKz56a60",
+          "name": "Moss",
+          "kind": "procedural",
+          "hue": 140,
+          "color": "#22c55e",
+          "duration": 14
+        },
+        {
+          "id": "ast_K3XB9SNX",
+          "name": "Violet Haze",
+          "kind": "procedural",
+          "hue": 280,
+          "color": "#a855f7",
+          "duration": 8
+        },
+        {
+          "id": "ast_ouVLzdbs",
+          "name": "Slate Bars",
+          "kind": "procedural",
+          "hue": 220,
+          "color": "#64748b",
+          "duration": 20
+        },
+        {
+          "id": "ast_LExCLMH5",
+          "name": "Clip 6",
+          "kind": "procedural",
+          "hue": 50,
+          "color": "#bfaa40",
+          "duration": 8
+        },
+        {
+          "id": "ast_3VQwMHyB",
+          "name": "Clip 7",
+          "kind": "procedural",
+          "hue": 200,
+          "color": "#4095bf",
+          "duration": 8
+        },
+        {
+          "id": "ast_U5cZcHw_",
+          "name": "Clip 8",
+          "kind": "procedural",
+          "hue": 18,
+          "color": "#bf6640",
+          "duration": 8
+        },
+        {
+          "id": "ast_k5ovNNaX",
+          "name": "Screenshot 2026-06-21 at 5.25.21 PM.png",
+          "kind": "image",
+          "url": "/uploads/img_Spq_ja3q.png",
+          "color": "#94a3b8",
+          "duration": 6
+        },
+        {
+          "id": "ast_BzncfR5f",
+          "name": "Clip 10",
+          "kind": "procedural",
+          "hue": 280,
+          "color": "#9540bf",
+          "duration": 8
+        },
+        {
+          "id": "ast_LUcNuLQP",
+          "name": "Clip 11",
+          "kind": "procedural",
+          "hue": 330,
+          "color": "#bf4080",
+          "duration": 8
+        },
+        {
+          "id": "ast_zfUmcHFG",
+          "name": "test-clip.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_vOGdeiQn.mp4",
+          "color": "#6b8aa8",
+          "duration": 8.5,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_cdJm7IzM",
+          "name": "Synthetic Test",
+          "kind": "video",
+          "url": "/uploads/vid_q_fQPune.webm",
+          "color": "#6b8aa8",
+          "duration": 2,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "id": "ast_XDOaUanw",
+          "name": "Big Buck Bunny",
+          "kind": "video",
+          "url": "/uploads/vid_q0I90ENC.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 320,
+          "height": 176
+        },
+        {
+          "id": "ast_EVJkzqnp",
+          "name": "Clip 15",
+          "kind": "procedural",
+          "hue": 140,
+          "color": "#40bf6a",
+          "duration": 8
+        },
+        {
+          "id": "ast_IsYpTJMV",
+          "name": "Voice Test.wav",
+          "kind": "image",
+          "url": "/uploads/img_q_g6APZs.wav",
+          "color": "#94a3b8",
+          "duration": 3.5,
+          "width": null,
+          "height": null
+        },
+        {
+          "id": "ast_I15sQVwY",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Hello deckstop"
+        },
+        {
+          "id": "ast_zeiAE7Kf",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_uQp1JKO-",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_vFbpXSCU",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_IUtRxpBx",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_iPKeYv5d",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_cyYfr0CB",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_77alAHLn",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_bLgtA22f",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        }
+      ]
+    },
+    {
+      "id": "prj_GeLgC8Y1",
+      "name": "Untitled",
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "tracks": [
+        {
+          "id": "trk_RIaKkJ50",
+          "name": "V4",
+          "index": 0
+        },
+        {
+          "id": "trk_ZXCXHdkh",
+          "name": "V2",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_1IgeXE-u",
+          "name": "V1",
+          "index": 2,
+          "kind": "video"
+        },
+        {
+          "id": "trk_BqMLt0Zx",
+          "name": "A1",
+          "index": 3,
+          "kind": "audio"
+        }
+      ],
+      "clips": [
+        {
+          "id": "clp_XjTNE5Qc",
+          "trackId": "trk_BqMLt0Zx",
+          "assetId": "ast_DmNKjRbh",
+          "name": "test-clip.mp4 Audio",
+          "start": 0,
+          "duration": 8.5,
+          "inPoint": 0,
+          "sourceDuration": 8.5,
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "rotation": 0,
+          "fadeIn": 0,
+          "fadeOut": 0,
+          "transIn": "none",
+          "transInDur": 0.5,
+          "transOut": "none",
+          "transOutDur": 0.5,
+          "loop": false,
+          "hue": 210,
+          "brightness": 1,
+          "saturation": 1,
+          "contrast": 1,
+          "temperature": 0,
+          "filter": "none",
+          "color": "#46b88a",
+          "src": "/uploads/vid_vOGdeiQn.mp4",
+          "text": "",
+          "fontSize": 64,
+          "fontColor": "#ffffff",
+          "align": "center",
+          "fontWeight": 700,
+          "fontFamily": "system",
+          "muted": false,
+          "audioOnly": true,
+          "volume": 1,
+          "keyframes": []
+        }
+      ],
+      "createdAt": "2026-06-27T09:35:59.914Z",
+      "updatedAt": "2026-06-27T21:25:49.359Z",
+      "assets": [
+        {
+          "id": "ast_1ynplWjQ",
+          "name": "Aurora",
+          "kind": "procedural",
+          "hue": 200,
+          "color": "#3b82f6",
+          "duration": 12
+        },
+        {
+          "id": "ast_pDST_VcX",
+          "name": "Ember",
+          "kind": "procedural",
+          "hue": 18,
+          "color": "#f97316",
+          "duration": 9
+        },
+        {
+          "id": "ast_SKz56a60",
+          "name": "Moss",
+          "kind": "procedural",
+          "hue": 140,
+          "color": "#22c55e",
+          "duration": 14
+        },
+        {
+          "id": "ast_K3XB9SNX",
+          "name": "Violet Haze",
+          "kind": "procedural",
+          "hue": 280,
+          "color": "#a855f7",
+          "duration": 8
+        },
+        {
+          "id": "ast_ouVLzdbs",
+          "name": "Slate Bars",
+          "kind": "procedural",
+          "hue": 220,
+          "color": "#64748b",
+          "duration": 20
+        },
+        {
+          "id": "ast_LExCLMH5",
+          "name": "Clip 6",
+          "kind": "procedural",
+          "hue": 50,
+          "color": "#bfaa40",
+          "duration": 8
+        },
+        {
+          "id": "ast_3VQwMHyB",
+          "name": "Clip 7",
+          "kind": "procedural",
+          "hue": 200,
+          "color": "#4095bf",
+          "duration": 8
+        },
+        {
+          "id": "ast_U5cZcHw_",
+          "name": "Clip 8",
+          "kind": "procedural",
+          "hue": 18,
+          "color": "#bf6640",
+          "duration": 8
+        },
+        {
+          "id": "ast_k5ovNNaX",
+          "name": "Screenshot 2026-06-21 at 5.25.21 PM.png",
+          "kind": "image",
+          "url": "/uploads/img_Spq_ja3q.png",
+          "color": "#94a3b8",
+          "duration": 6
+        },
+        {
+          "id": "ast_BzncfR5f",
+          "name": "Clip 10",
+          "kind": "procedural",
+          "hue": 280,
+          "color": "#9540bf",
+          "duration": 8
+        },
+        {
+          "id": "ast_LUcNuLQP",
+          "name": "Clip 11",
+          "kind": "procedural",
+          "hue": 330,
+          "color": "#bf4080",
+          "duration": 8
+        },
+        {
+          "id": "ast_zfUmcHFG",
+          "name": "test-clip.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_vOGdeiQn.mp4",
+          "color": "#6b8aa8",
+          "duration": 8.5,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_cdJm7IzM",
+          "name": "Synthetic Test",
+          "kind": "video",
+          "url": "/uploads/vid_q_fQPune.webm",
+          "color": "#6b8aa8",
+          "duration": 2,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "id": "ast_XDOaUanw",
+          "name": "Big Buck Bunny",
+          "kind": "video",
+          "url": "/uploads/vid_q0I90ENC.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 320,
+          "height": 176
+        },
+        {
+          "id": "ast_EVJkzqnp",
+          "name": "Clip 15",
+          "kind": "procedural",
+          "hue": 140,
+          "color": "#40bf6a",
+          "duration": 8
+        },
+        {
+          "id": "ast_IsYpTJMV",
+          "name": "Voice Test.wav",
+          "kind": "image",
+          "url": "/uploads/img_q_g6APZs.wav",
+          "color": "#94a3b8",
+          "duration": 3.5,
+          "width": null,
+          "height": null
+        },
+        {
+          "id": "ast_I15sQVwY",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Hello deckstop"
+        },
+        {
+          "id": "ast_zeiAE7Kf",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_uQp1JKO-",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_vFbpXSCU",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_IUtRxpBx",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_iPKeYv5d",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_cyYfr0CB",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_77alAHLn",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_DmNKjRbh",
+          "name": "test-clip.mp4 Audio",
+          "kind": "audio",
+          "url": "/uploads/vid_vOGdeiQn.mp4",
+          "color": "#46b88a",
+          "duration": 8.5,
+          "width": null,
+          "height": null,
+          "sourceAssetId": "ast_zfUmcHFG"
+        }
+      ]
+    },
+    {
+      "id": "prj_h6k9wXB-",
+      "name": "Untitled",
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "tracks": [
+        {
+          "id": "trk_JMar3miJ",
+          "name": "V4",
+          "index": 0
+        },
+        {
+          "id": "trk_WJgtxLeq",
+          "name": "V2",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_-pibRmE2",
+          "name": "V1",
+          "index": 2,
+          "kind": "video"
+        },
+        {
+          "id": "trk_GmT4O3qp",
+          "name": "A1",
+          "index": 3,
+          "kind": "audio"
+        }
+      ],
+      "clips": [],
+      "createdAt": "2026-06-27T09:39:36.527Z",
+      "updatedAt": "2026-06-27T13:02:59.496Z",
+      "assets": [
+        {
+          "id": "ast_1ynplWjQ",
+          "name": "Aurora",
+          "kind": "procedural",
+          "hue": 200,
+          "color": "#3b82f6",
+          "duration": 12
+        },
+        {
+          "id": "ast_pDST_VcX",
+          "name": "Ember",
+          "kind": "procedural",
+          "hue": 18,
+          "color": "#f97316",
+          "duration": 9
+        },
+        {
+          "id": "ast_SKz56a60",
+          "name": "Moss",
+          "kind": "procedural",
+          "hue": 140,
+          "color": "#22c55e",
+          "duration": 14
+        },
+        {
+          "id": "ast_K3XB9SNX",
+          "name": "Violet Haze",
+          "kind": "procedural",
+          "hue": 280,
+          "color": "#a855f7",
+          "duration": 8
+        },
+        {
+          "id": "ast_ouVLzdbs",
+          "name": "Slate Bars",
+          "kind": "procedural",
+          "hue": 220,
+          "color": "#64748b",
+          "duration": 20
+        },
+        {
+          "id": "ast_LExCLMH5",
+          "name": "Clip 6",
+          "kind": "procedural",
+          "hue": 50,
+          "color": "#bfaa40",
+          "duration": 8
+        },
+        {
+          "id": "ast_3VQwMHyB",
+          "name": "Clip 7",
+          "kind": "procedural",
+          "hue": 200,
+          "color": "#4095bf",
+          "duration": 8
+        },
+        {
+          "id": "ast_U5cZcHw_",
+          "name": "Clip 8",
+          "kind": "procedural",
+          "hue": 18,
+          "color": "#bf6640",
+          "duration": 8
+        },
+        {
+          "id": "ast_k5ovNNaX",
+          "name": "Screenshot 2026-06-21 at 5.25.21 PM.png",
+          "kind": "image",
+          "url": "/uploads/img_Spq_ja3q.png",
+          "color": "#94a3b8",
+          "duration": 6
+        },
+        {
+          "id": "ast_BzncfR5f",
+          "name": "Clip 10",
+          "kind": "procedural",
+          "hue": 280,
+          "color": "#9540bf",
+          "duration": 8
+        },
+        {
+          "id": "ast_LUcNuLQP",
+          "name": "Clip 11",
+          "kind": "procedural",
+          "hue": 330,
+          "color": "#bf4080",
+          "duration": 8
+        },
+        {
+          "id": "ast_zfUmcHFG",
+          "name": "test-clip.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_vOGdeiQn.mp4",
+          "color": "#6b8aa8",
+          "duration": 8.5,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_cdJm7IzM",
+          "name": "Synthetic Test",
+          "kind": "video",
+          "url": "/uploads/vid_q_fQPune.webm",
+          "color": "#6b8aa8",
+          "duration": 2,
+          "width": 320,
+          "height": 180
+        },
+        {
+          "id": "ast_XDOaUanw",
+          "name": "Big Buck Bunny",
+          "kind": "video",
+          "url": "/uploads/vid_q0I90ENC.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 320,
+          "height": 176
+        },
+        {
+          "id": "ast_EVJkzqnp",
+          "name": "Clip 15",
+          "kind": "procedural",
+          "hue": 140,
+          "color": "#40bf6a",
+          "duration": 8
+        },
+        {
+          "id": "ast_IsYpTJMV",
+          "name": "Voice Test.wav",
+          "kind": "image",
+          "url": "/uploads/img_q_g6APZs.wav",
+          "color": "#94a3b8",
+          "duration": 3.5,
+          "width": null,
+          "height": null
+        },
+        {
+          "id": "ast_I15sQVwY",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Hello deckstop"
+        },
+        {
+          "id": "ast_zeiAE7Kf",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_uQp1JKO-",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_vFbpXSCU",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_IUtRxpBx",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_iPKeYv5d",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_cyYfr0CB",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_77alAHLn",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_XCmPGw_a",
+          "name": "Lower third",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Name · Role"
+        }
+      ]
+    },
+    {
+      "id": "prj_SQk1BWqK",
+      "name": "Untitled",
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "tracks": [
+        {
+          "id": "trk_Ru9RxO4e",
+          "name": "V2",
+          "index": 0,
+          "kind": "video"
+        },
+        {
+          "id": "trk_EVmx5NBQ",
+          "name": "V1",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_lmy7neQL",
+          "name": "A1",
+          "index": 2,
+          "kind": "audio"
+        }
+      ],
+      "clips": [],
+      "assets": [
+        {
+          "id": "ast_Psnx0-hD",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_HJN0vYg9",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_fGGCwYZL",
+          "name": "Screenshot 2026-06-21 at 5.45.22 PM.png",
+          "kind": "image",
+          "url": "/uploads/img_VGQ2RCF8.png",
+          "color": "#94a3b8",
+          "duration": 6,
+          "width": 304,
+          "height": 110
+        },
+        {
+          "id": "ast_cQ-mRo7-",
+          "name": "Screen Recording 2026-06-21 at 8.54.10 PM.mov",
+          "kind": "video",
+          "url": "/uploads/vid_nY3CTyDc.mov",
+          "color": "#6b8aa8",
+          "duration": 58.32,
+          "width": 3024,
+          "height": 1964
+        },
+        {
+          "id": "ast_KJ0lGiCU",
+          "name": "video.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_LYcziilB.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_y4mdOMcy",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_jG4aXQVX",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        },
+        {
+          "id": "ast_19EsaZbk",
+          "name": "Text",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Your text"
+        }
+      ],
+      "createdAt": "2026-06-27T11:31:36.402Z",
+      "updatedAt": "2026-06-27T12:21:43.118Z"
+    },
+    {
+      "id": "prj_-X_BrLvh",
+      "name": "Untitled",
+      "fps": 60,
+      "width": 1920,
+      "height": 1080,
+      "tracks": [
+        {
+          "id": "trk_ja_KLxaL",
+          "name": "V2",
+          "index": 0,
+          "kind": "video"
+        },
+        {
+          "id": "trk_gwFEZwri",
+          "name": "V1",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_m8ogLZ2N",
+          "name": "A1",
+          "index": 2,
+          "kind": "audio"
+        }
+      ],
+      "clips": [
+        {
+          "id": "clp_DfzhIIW7",
+          "trackId": "trk_gwFEZwri",
+          "assetId": "ast_TbGSL8Be",
+          "name": "Screen Recording 2026-06-21 at 8.54.10 PM.mov",
+          "start": 0,
+          "duration": 58.32,
+          "inPoint": 0,
+          "sourceDuration": 58.32,
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "rotation": 0,
+          "fadeIn": 0,
+          "fadeOut": 0,
+          "transIn": "none",
+          "transInDur": 0.5,
+          "transOut": "none",
+          "transOutDur": 0.5,
+          "loop": false,
+          "hue": 210,
+          "brightness": 1,
+          "saturation": 1,
+          "contrast": 1,
+          "temperature": 0,
+          "filter": "none",
+          "color": "#6b8aa8",
+          "src": "/uploads/vid_aqRLYgJw.mov",
+          "text": "",
+          "fontSize": 64,
+          "fontColor": "#ffffff",
+          "align": "center",
+          "fontWeight": 700,
+          "fontFamily": "system",
+          "muted": false,
+          "audioOnly": false,
+          "volume": 1,
+          "keyframes": []
+        }
+      ],
+      "assets": [
+        {
+          "id": "ast_yE00lQQO",
+          "name": "a.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_UNtdPaD-.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.005,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_HuI-TUcn",
+          "name": "a2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_cJ4KO1_L.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.005,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_TbGSL8Be",
+          "name": "Screen Recording 2026-06-21 at 8.54.10 PM.mov",
+          "kind": "video",
+          "url": "/uploads/vid_aqRLYgJw.mov",
+          "color": "#6b8aa8",
+          "duration": 58.32,
+          "width": 3024,
+          "height": 1964
+        },
+        {
+          "id": "ast_VcVWFjl8",
+          "name": "Headline",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "HEADLINE"
+        },
+        {
+          "id": "ast_oO8GXDGA",
+          "name": "69881aca22888191b62e4121e6556328.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_X298YhJW.mp4",
+          "color": "#6b8aa8",
+          "duration": 35.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_V3XbxYMq",
+          "name": "698824e3a4308191a6092f0327c5a187.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_aETVWYWy.mp4",
+          "color": "#6b8aa8",
+          "duration": 79.6,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast__2re-uWB",
+          "name": "6988232e06dc8191a41bce2756c29f68.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_ygcptpTr.mp4",
+          "color": "#6b8aa8",
+          "duration": 25.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_fV4TTkQe",
+          "name": "gen_01katpa42te3mv25bqp1qjqn3g.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Ysm6PKA7.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_tyXYLQob",
+          "name": "gen_01katpm9bse3xvkysf9v6a447j.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_huZQy6tZ.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_rkenQarW",
+          "name": "gen_01katpra0te9va3byyay1pk5ag.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Ou2G3N_d.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_O_RzL1Lo",
+          "name": "gen_01katpybv1ej794ehtf1r5q65v.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_JGCOPlBy.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_YM6pYU18",
+          "name": "gen_01katqqj2mfj2sc7fa29xcxgq6.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_nhusi1nH.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_t04r4cGM",
+          "name": "gen_01kav1a4tgfvk8w4kja3s4wv3e.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_rnAE1xER.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_T04pTWeM",
+          "name": "gen_01kav1kbd0fmzb1tqy1s5sc0kw.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_5nnfNHyz.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_TqO0c7cY",
+          "name": "gen_01kav9x2ntf9t9fhyv05q00zn6.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_DwtAajCg.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_i97nHqIm",
+          "name": "gen_01kav057kmfz4tesg1vcet0105.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_FQppGDq_.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_supAmyOi",
+          "name": "gen_01kav80mv4ey5vaktdy2ck69gs.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_XOLnc7qE.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_mmHja_hw",
+          "name": "gen_01kavbhwmpfcfaxvcrbrpspkh2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_K7YR0cfU.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_Y_YwJLg5",
+          "name": "gen_01kavbyyexfdkag2tsnwpqd1dn.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Cl2wTAyW.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_7pvVhzMc",
+          "name": "gen_01kavdgtp8fa5sjt6h7c7j7pa3.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_SjAa4CNu.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_IIF2L27w",
+          "name": "gen_01kavegcdbf69bwv4rckzzrycd.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_aN-iC_J0.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_u4fA8cpK",
+          "name": "gen_01kay51scde5480hwesgc07h15.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_aJyy6inn.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_1E-RSL1t",
+          "name": "gen_01kay561p0efwbnzbhhfr2ajrh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_0O67gO80.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_aX_gfQtE",
+          "name": "gen_01kay561p0efwbnzbhhfr2ajrh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_bKCWWowe.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_huKx7bXh",
+          "name": "gen_01kayeryy2fp4vc78jea9r10c0.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_VynkYkgn.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_opvBBxB9",
+          "name": "gen_01kayfsf0ae73s8t2yy8aqzkks.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_aY1pHmN6.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_cyxLlbtj",
+          "name": "gen_01kayhe333fzqrqzyg5bb33bwh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_yspR79vA.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast__33wHk6I",
+          "name": "gen_01kaykvbyqf9cac8sea5fwaz3h.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_9UAQ0aZ6.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_IzoaGU0B",
+          "name": "gen_01kayssw6eef8r3zka1gtsn3e6.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_eVVyX-Bv.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_pXXTLg2u",
+          "name": "gen_01kayye0rcem5sh6ewzdc8a461.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_jLff4U7Z.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_w7zXK6GC",
+          "name": "gen_01kb2xr147f7zv060q0p894tqg.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_9UCDVhk5.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_ncXKjDy2",
+          "name": "gen_01kb8bv9vdfrm89kfjs60166hf.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_XzhWZgP7.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_r4XOiV33",
+          "name": "gen_01kbb87hacfy3tjr5hvdr66dfr.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_zUErxhL2.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_Gwe1kGyh",
+          "name": "gen_01kbbnvyede44re6c22gg3gd4n.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_2b85xRGC.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_iWz4lZLp",
+          "name": "gen_01kbemrrkpf1mvzrkhsz1dg3qg.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_T8dH5sqR.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_CDVhu0t2",
+          "name": "gen_01kbh2f331fmnt6m2ga66bgbj3.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_YpqoaaC1.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_M_8BIYSv",
+          "name": "gen_01kbt9vq22e5xs3sa863bhpqx2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_VjnmfAkq.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_aoJnZUHf",
+          "name": "gen_01kcet7n0rf39awc5p20xm4tkx.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_5Y1cF0Q9.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_wBmxeJM2",
+          "name": "gen_01kceth8zqeh8at0j00vzqgehq.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_qInFE1_7.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_8H59YNG_",
+          "name": "gen_01kcev4y0seefbc6g9xh6dnmfs.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_STwmjar0.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_4RLpJQI9",
+          "name": "gen_01kcyvzjmmfd7skxbhbas2h65m.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_0qCbN14j.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_WyFXw5ev",
+          "name": "gen_01kd0ww5n8fj3a1gpndksjt9wq.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Q_i9o_Ix.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_htpyvS2T",
+          "name": "gen_01kd1tf4q2emzafwvvvepjtc8j.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_sPlSDW-z.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_YUGRaKS1",
+          "name": "gen_01kdt66tx2ez89vc0reyj55b9r.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_v6DFe8gL.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_N4bm2T48",
+          "name": "gen_01ke9m1rtwew6s03jd2bw1ehwa.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_6EpJwHpg.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_Km_hh4z0",
+          "name": "gen_01ke9m27spetyshx8cc1p861f9.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_IpOTBzVm.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_5CWXVmYW",
+          "name": "gen_01keawgybye8naadn79ke94bpw.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_iL-mLWx1.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_orLOtma4",
+          "name": "gen_01kg98tn6xfqqt6xykq614hrm5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_kIh1O33a.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_0G-34dDx",
+          "name": "gen_01kg146m04fwyseay7rxpw8bwf.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_J_gASkF9.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_sMLBm88f",
+          "name": "gen_01kg967w21e228xfphf204bn0v.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_O_BMH9tE.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_hMruEl-N",
+          "name": "gen_01kgarh0x5eg59x89y115pfv70.mp4",
+          "kind": "video",
+          "url": "/uploads/vid__2W258RJ.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_mqX6oN4Z",
+          "name": "gen_01kgbfjpr3ek5r0ez0nppnf9mh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_iG2hjnzD.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_SY0-ggZz",
+          "name": "gen_01kgdaq294fg1s740dq0z757vb.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_n7h3a0wY.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_LMQHyj4k",
+          "name": "gen_01kgk4my6he7wva5k306a7my3c.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_ZydxwjzG.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_2BzNexuw",
+          "name": "gen_01kgk4n1m4fc9v9tff0jc0ez79.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Lz6pPVGv.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_Ql8S9-LU",
+          "name": "gen_01kgk9z001ftrvb0bbk4ggeygg.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_mdXuBxP0.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_HC9eMass",
+          "name": "gen_01kgk49kzff8psvhx2tt7zzyg0.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_cF11Q4F5.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_ASoSfPio",
+          "name": "gen_01kgp6fwvmf858j71xhxr24vb5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Bh-UD5lH.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_f_dCnG6Y",
+          "name": "gen_01kgp6g1b5fq58jac6sbajwcm7.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_FBCO8MkP.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_nUpPfWH1",
+          "name": "gen_01kgp6pp2be0z9fa2f06x7ttsh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_CQVVNr0Q.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_eEKxinTA",
+          "name": "gen_01kgp6wx16fq09naeet683bfsv.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_ztqGvB9w.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_DTaBGXr2",
+          "name": "gen_01kgs4md40ettrmanx0rrjkm9m.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_KSOkXeWk.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_CqYvzcGk",
+          "name": "gen_01kgs6v1mwfgatcstswqy7wb2t.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_rbaiP9t2.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_TWJ6pQDs",
+          "name": "gen_01kgs8t34wecdb1a9e5m0v2tm2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_V_BDoyRj.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_61w16bNE",
+          "name": "gen_01kgs82hvhec99xz04qawv7gb7.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_R_rZiFKq.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_iwX_Q1Po",
+          "name": "gen_01kgs89v2meamsy5beyrhym4kz.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_S5kQXPqR.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_JwN0CjrT",
+          "name": "gen_01kgth4a0wfkxrxqmsjp863bqk.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_4VT6as8s.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_pqD4_bhL",
+          "name": "gen_01kgtjdfqsf7p897e8xrf7vzwh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_GIHpRgTS.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_60Ghtz8d",
+          "name": "gen_01kgtk1zqtf8ftvkwq0awbn8c8.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_D7FKpmrJ.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_aKOsBKF5",
+          "name": "gen_01kgwd81fjeq6v1rtneffb5f6v.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_d8oCiVnV.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.8,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_QjtgdK7P",
+          "name": "gen_01kgwd492zewnbsp7d5kqcp0ng.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_fNd9JF-i.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_J6OqOU3Z",
+          "name": "gen_01kgwdg0ryf43rfzkfkzp3hvnh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_LHv5wnXf.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_w-tGh5Sw",
+          "name": "gen_01kgwdmjtce8frbvsqehn77ysb.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_L2LVFZ1U.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_GNcRkWz8",
+          "name": "gen_01kgwdxg1yf0fvzjqqb2vpk3m1.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_p71h6bbt.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_1FJVFEZo",
+          "name": "gen_01kgxhhabcfxebntf9wfb80vxw.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_m2riM6bM.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_0d7_pAKL",
+          "name": "gen_01kgxrpgepfz3a4pgxttafedb4.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_wDoam8Ag.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_NI50aFcU",
+          "name": "gen_01kgxs231sezfse9v1zj3v4zdn.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_ZzvT2YCP.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.2,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_1upVEa6i",
+          "name": "gen_01kgxtwfe6fx9v3x6e5ecdp3wk.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Fv-A9jEq.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_VzP1Eh3A",
+          "name": "gen_01kgxwpm73f1g943yv0560mk1n.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_5MicZCHo.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_7JlNkjjy",
+          "name": "gen_01kgz0cs5gfr9rqtfnhnd4y643.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_IfAJUP1J.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_oz5fWO6b",
+          "name": "gen_01kgz0d78rf068j2a8cs0vspxh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_eSeSt3PB.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_9ZDOrlkz",
+          "name": "gen_01kgz0rfj8frvs9bj4dywm5hgt.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_GPvUSQvV.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.7,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_5uXBJi4O",
+          "name": "gen_01kgz0t4ahe91s2ptfvqbbb9qj.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_SGtvAHk8.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_X25NUi9G",
+          "name": "gen_01kgz1bqpgefg8g4n2a6sm5tht.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_naFPFn-v.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_mkXFHQAg",
+          "name": "gen_01kgz1btzfe9tb1y7try0h0n9e.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_pkiMw7VF.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_vpZkFNbj",
+          "name": "gen_01kgz1bzn7eeqvgfavqw7ksqb3.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_DRrn6wOA.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_7I-ZbqGk",
+          "name": "gen_01kgz144vfejsty7rpyyvsnxvp.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_ejX62X9A.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_xkXULmGh",
+          "name": "gen_01khc1n195f29vgmwqr3cxgtcj.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_lh8qDf72.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_mnh3fjuA",
+          "name": "gen_01khcea8q7e1gswmt76g39kpxa.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_SZMXnYCo.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_oVqxjNTK",
+          "name": "gen_01khetgtv3f6tvazypecz2s0jb.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_273y1OY5.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.7,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_alfOqf6i",
+          "name": "gen_01khfrzdk7f3xrx8w8j7gj6j70.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_lPH2-E1R.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_radd6cVs",
+          "name": "gen_01khfrzjbmfknawxs6nv0hfstk.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_SACvl5Sy.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_vcEzUfuZ",
+          "name": "gen_01khfs60f2f6sa7nfrgzt6y4mp.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_A8TxRG0V.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_OmjGAZO7",
+          "name": "gen_01kj9prjj5fhhv73nrbzjfg4nz.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_IRWlUe8j.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_lLElZsR9",
+          "name": "gen_01kj92grs3efp8y3wkc82b32kf.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_iNDhyjdO.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_KYdaCAsr",
+          "name": "gen_01kj402m4mfb4taszsgs5vwfe9.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Uqp62ADb.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_jAhImlUV",
+          "name": "gen_01kjc6ry1pezcrq09frpn5a8tw.mp4",
+          "kind": "video",
+          "url": "/uploads/vid__UUflgjY.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_d18hd9Qy",
+          "name": "gen_01kje7qnb3ecjr13ddbf0n5jf5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_4qQEEkxj.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_XXtJm_1U",
+          "name": "gen_01kje7qqzteqnaxk0jxwpv5sfv.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_z6t1KVqU.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_EYx1h_9n",
+          "name": "gen_01kje7rh1effd84ehwctwfeh6k.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_RyHvQTdb.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_7HAcvSWZ",
+          "name": "gen_01kje73wywft2vqk68cacpt2b3.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_4aj2oBTi.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_w3sI4NPy",
+          "name": "gen_01kjgr7zpyfxfr6vmjb4msxhy4.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_8iGQzqHT.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_MGqT9qvY",
+          "name": "gen_01kjgwzbywe0dajntgjg9kprh5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_IF9lOkd0.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast__Kf2R3Gg",
+          "name": "gen_01kjk8w4nyfy4r9b58x21rvt6r.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_d8g6GaAg.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.2,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_GFN3rZug",
+          "name": "gen_01kjk8xb41ff6vj5m0vb8t8qw5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_JzZbRBz6.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.2,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_ueDjAasK",
+          "name": "gen_01kjrfdvv1e93andcc8s0t5qx6.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_fUknjzBP.mp4",
+          "color": "#6b8aa8",
+          "duration": 9.9,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_w_Rhdt_P",
+          "name": "gen_01kjrfeh46f66s0cm0appy8334.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_TLYKnUV4.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_UQRTx-Oj",
+          "name": "gen_01kkzk42nsemmrke7ttj9t6fg8.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_BsyLlFHQ.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_65js3Lkr",
+          "name": "gen_01km1gjzttejws14brrsse3jav.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_42i3NYls.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_DQ_F6_2N",
+          "name": "gen_01kmhadce6f1asnkcjs6thcbqq.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_KX_g9aVh.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_YEx4csJ4",
+          "name": "gen_01kn0fwymyffvbbc3mjz1rkcth.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_5thzXftL.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_HM2VsymE",
+          "name": "gen_01knz5bgdcfm9vehe38hjw5wp9.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_6cRqbe5j.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_xuWos2mO",
+          "name": "gen_01knz5hgdeffvvqr8wmq13hx2j.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_OxA4facE.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_dqehlTKK",
+          "name": "gen_01knz6tngjfsy8t8c2s0qwx4j0.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_p5gTWSXa.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_490QMdI0",
+          "name": "gen_01knz59btxfcz8xcp48h4hsrz6.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_G1SOdxMN.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast__g344I_9",
+          "name": "gen_01knz64z0rfqjsa05an0qf99hd.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_TDyNdn0F.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_j0-CqyCq",
+          "name": "gen_01knz65q63f6e871qsyv5nkvcs.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_LxnYajYs.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_QSY0M5Uw",
+          "name": "gen_01knz5952tengvggqnj8ndbn7q.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_GMltWoNq.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_3Kbklnyw",
+          "name": "video.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_FqYXm6Eq.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_9Jwqq-_x",
+          "name": "OIG1.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_t1IFtPD4.mp4",
+          "color": "#6b8aa8",
+          "duration": 8.1,
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "id": "ast_w3eeaa8k",
+          "name": "OIG2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_QymD2aoZ.mp4",
+          "color": "#6b8aa8",
+          "duration": 8.1,
+          "width": 720,
+          "height": 1280
+        },
+        {
+          "id": "ast_CoBBhm2L",
+          "name": "seedance2-fast_Video_20260430_170149.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_G-S7XsQt.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.069002,
+          "width": 864,
+          "height": 496
+        },
+        {
+          "id": "ast_9z4xgBra",
+          "name": "seedance2-fast_Video_20260430_170615.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_nLjiXJir.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.069002,
+          "width": 864,
+          "height": 496
+        },
+        {
+          "id": "ast_stX1M8Wh",
+          "name": "seedance2-fast_Video_20260430_174846.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_GKVZslxO.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.069002,
+          "width": 864,
+          "height": 496
+        },
+        {
+          "id": "ast_0aEFxH9b",
+          "name": "video-520421 (1).mp4",
+          "kind": "video",
+          "url": "/uploads/vid_OyVL2IIV.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.069002,
+          "width": 864,
+          "height": 496
+        },
+        {
+          "id": "ast_JYCH1keD",
+          "name": "video-520421.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_1HyxuNIM.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.069002,
+          "width": 864,
+          "height": 496
+        },
+        {
+          "id": "ast_3SbQnD9E",
+          "name": "video-520451-1.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_sw1pl-R_.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.069002,
+          "width": 864,
+          "height": 496
+        },
+        {
+          "id": "ast_35pJ0WbS",
+          "name": "20260302_1607_01kjhg67b2f6d94jpgh22bbzd0.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_jqW1zF4A.mp4",
+          "color": "#6b8aa8",
+          "duration": 29.738,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_pF487QO5",
+          "name": "19700121_0348_69881e2b80d08191bd955c978abc388f.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_imJeCP_4.mp4",
+          "color": "#6b8aa8",
+          "duration": 25.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_kZECsmVB",
+          "name": "19700121_0348_698824e4515881918d95907a1a964494.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_qr5EWK1o.mp4",
+          "color": "#6b8aa8",
+          "duration": 79.6,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_sDNqAMPv",
+          "name": "19700121_0348_69882327e9d881919990dd8af49798aa.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_vm8Ca4Mq.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_AlYY8KX3",
+          "name": "19700121_0350_69895fc4aa98819188c687e9d8daccb0 (1).mp4",
+          "kind": "video",
+          "url": "/uploads/vid_k0nGMMK3.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_KfP5RPyV",
+          "name": "20260212_2334_01khaypsbefndrp4b6w017qmq4.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_IP0-ELvB.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 1024,
+          "height": 1792
+        },
+        {
+          "id": "ast_hoJziDaG",
+          "name": "20260214_2001_01khfe42jef30t9kbr9cy2bhgh.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_j9nNqWeh.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_GNs_-98M",
+          "name": "ok copy.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_VG5YvtcG.mp4",
+          "color": "#6b8aa8",
+          "duration": 35.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_1DAdMuwt",
+          "name": "ok.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_eyIL_Ebu.mp4",
+          "color": "#6b8aa8",
+          "duration": 35.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_vzJ02TlE",
+          "name": "695ab879d6e481919f7193f13a28cf25.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_0aZ1GTYt.mp4",
+          "color": "#6b8aa8",
+          "duration": 30.252,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_VINwnrxw",
+          "name": "695abadeaf6481918aa93a8eda673722.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_xznJ7ppl.mp4",
+          "color": "#6b8aa8",
+          "duration": 30.363,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_T-U-pdzu",
+          "name": "695abc6e9e9881918bc02c735728f84d.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_t5xaAxut.mp4",
+          "color": "#6b8aa8",
+          "duration": 45.283,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_wBR3e3FD",
+          "name": "695abc63850c8191b8a28a7132f0bcac.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_4ubIG-p2.mp4",
+          "color": "#6b8aa8",
+          "duration": 40.499,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_83sFY1s8",
+          "name": "695b4a7dae64819197ec17de986ada59.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_vYzXDWwh.mp4",
+          "color": "#6b8aa8",
+          "duration": 40.556,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_Ef0Wi_pe",
+          "name": "695b4a14f4008191bc0a836277fd9299.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_rNLgRZkA.mp4",
+          "color": "#6b8aa8",
+          "duration": 30.431,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_c1SbXTeK",
+          "name": "695b4a14f4008191bc0a836277fd9299.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_xaJTTJV2.mp4",
+          "color": "#6b8aa8",
+          "duration": 30.431,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast__WXoLcZe",
+          "name": "695b492099848191bd381058fbd6fcca.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_588O6Ph-.mp4",
+          "color": "#6b8aa8",
+          "duration": 20.279,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_JuSF0BRj",
+          "name": "695b492099848191bd381058fbd6fcca.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_I4i5ftNo.mp4",
+          "color": "#6b8aa8",
+          "duration": 20.279,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_g8sQ18wv",
+          "name": "69881d9fd5f48191b00784c2e9db5fb3.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_9EC6ia8F.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_xqqZP6yq",
+          "name": "69881d8999f081918b79fd4ba25e95d5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_n15ZH5A3.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_MK3C1TR7",
+          "name": "69881e2ad8188191a3158263554bbe63.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_vNMGf1rC.mp4",
+          "color": "#6b8aa8",
+          "duration": 25.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_rwBpxa5Q",
+          "name": "19700121_0348_69881e2b80d08191bd955c978abc388f copy.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_GVGAaC5E.mp4",
+          "color": "#6b8aa8",
+          "duration": 25.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_yxRbGRuO",
+          "name": "19700121_0348_69881e7ab5a481918430d6dc16a34190 (1).mp4",
+          "kind": "video",
+          "url": "/uploads/vid_lObnpHSy.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.2,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_T0uGuKsS",
+          "name": "19700121_0348_69881e7ab5a481918430d6dc16a34190.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_1V_2XbWT.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.2,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_pigD8Gem",
+          "name": "19700121_0348_69883cfefe948191ad4403a39b169016 (1).mp4",
+          "kind": "video",
+          "url": "/uploads/vid_yQGEkzjS.mp4",
+          "color": "#6b8aa8",
+          "duration": 29.733333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_u62ZiV5P",
+          "name": "19700121_0348_69883cfefe948191ad4403a39b169016.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_QTIDS0eK.mp4",
+          "color": "#6b8aa8",
+          "duration": 29.733333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_YlQim-WD",
+          "name": "19700121_0348_69883d0513248191b5c9f0e6d2e3fb42.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_RKfUiSgm.mp4",
+          "color": "#6b8aa8",
+          "duration": 40,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast__BCgJHiH",
+          "name": "19700121_0348_69882327e9d881919990dd8af49798aa copy.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_DYizMnBM.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_HTcrFu6v",
+          "name": "19700121_0350_69895fc4aa98819188c687e9d8daccb0.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_-cfUeI7O.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_YB9WR9KL",
+          "name": "20260212_2325_01kh0bzkpdfvsrxv0bpx3tgy9x.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_7a0LogMe.mp4",
+          "color": "#6b8aa8",
+          "duration": 59.533333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_cRb7HKEa",
+          "name": "20260212_2327_01kh08z57hebmvq3zz1ex46ta3.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_obVQNykV.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_BR1ZEpBF",
+          "name": "20260212_2328_01kh08z57hebmvq3zz1ex46ta3.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Tgmml9FL.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_FL3YFJMw",
+          "name": "20260302_1606_01kjhg67b2f6d94jpgh22bbzd0.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_xELnMax4.mp4",
+          "color": "#6b8aa8",
+          "duration": 29.738,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_9J0nCXYp",
+          "name": "698823271b68819197e1b8b51d44c5e5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_LfP5zjK1.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_3PpiTx8a",
+          "name": "6367399079016671426.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_DP8lQm3g.mp4",
+          "color": "#6b8aa8",
+          "duration": 27.760708,
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "id": "ast_QA4IMAdQ",
+          "name": "6795657836146623092.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_HDkNsyfW.mp4",
+          "color": "#6b8aa8",
+          "duration": 14.945271,
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "id": "ast_kGii9Yq0",
+          "name": "a.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_j_LeDBGX.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.005,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "id": "ast_ofgdczPM",
+          "name": "a2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_cjEGdB9n.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.005,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "createdAt": "2026-06-27T12:46:13.069Z",
+      "updatedAt": "2026-06-27T22:32:34.896Z"
+    },
+    {
+      "id": "prj_xWZAZj3Z",
+      "name": "Untitled",
+      "fps": 60,
+      "width": 1920,
+      "height": 1080,
+      "tracks": [
+        {
+          "id": "trk_GQUIEn9C",
+          "name": "V4",
+          "index": 0,
+          "kind": "video"
+        },
+        {
+          "id": "trk_g5tpHpC7",
+          "name": "V2",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_-qEVfKP2",
+          "name": "V1",
+          "index": 2,
+          "kind": "video"
+        },
+        {
+          "id": "trk_lLQUwe2t",
+          "name": "A1",
+          "index": 3,
+          "kind": "audio"
+        }
+      ],
+      "clips": [],
+      "assets": [],
+      "createdAt": "2026-06-27T13:57:08.655Z",
+      "updatedAt": "2026-06-27T21:39:06.267Z"
+    },
+    {
+      "id": "prj_oaqYFaUv",
+      "name": "Untitled",
+      "fps": 30,
+      "width": 1920,
+      "height": 1080,
+      "tracks": [
+        {
+          "id": "trk_GniEo_ZX",
+          "name": "V2",
+          "index": 0,
+          "kind": "video"
+        },
+        {
+          "id": "trk_EyTlOSRa",
+          "name": "V1",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_9C2u9P45",
+          "name": "A1",
+          "index": 2,
+          "kind": "audio"
+        }
+      ],
+      "clips": [],
+      "assets": [
+        {
+          "id": "ast_7RVf-_sp",
+          "name": "69881d8999f081918b79fd4ba25e95d5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_t57gnTVy.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_WBaOz9i_",
+          "name": "69881e2ad8188191a3158263554bbe63.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_zpnleo_n.mp4",
+          "color": "#6b8aa8",
+          "duration": 25.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_CskNX2fI",
+          "name": "6988232e06dc8191a41bce2756c29f68.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Ma91r6E8.mp4",
+          "color": "#6b8aa8",
+          "duration": 25.133333,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_5JZH4J4n",
+          "name": "698823271b68819197e1b8b51d44c5e5.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_n5k1Yk7N.mp4",
+          "color": "#6b8aa8",
+          "duration": 25,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast__6gfE1Ib",
+          "name": "gen_01kgxrp8s6fdtr4etxqc26zaqc.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_mzQ4JOQu.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_PFMCxIqG",
+          "name": "gen_01kgxrpg62fbfaf47ht7bqe48v.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_UPFXxwrs.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_unojEvFB",
+          "name": "gen_01kgxrpgepfz3a4pgxttafedb4.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_vQHn77wT.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_-MDF0li9",
+          "name": "gen_01kgxs2nfpea8rbgnqrqsn6wfs.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_v_yexZ_C.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.1,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_WvYYdiht",
+          "name": "gen_01kgxs2qt7f1eshmmb9enemqs2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_pLeU3jjd.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.2,
+          "width": 704,
+          "height": 1280
+        },
+        {
+          "id": "ast_9aLtErpx",
+          "name": "gen_01kgxs231sezfse9v1zj3v4zdn.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_TLmbBlon.mp4",
+          "color": "#6b8aa8",
+          "duration": 15.2,
+          "width": 704,
+          "height": 1280
+        }
+      ],
+      "createdAt": "2026-06-28T04:49:32.327Z",
+      "updatedAt": "2026-06-28T04:50:32.987Z"
+    },
+    {
+      "id": "prj_rKDJvd9h",
+      "name": "Untitled",
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "tracks": [
+        {
+          "id": "trk_kaR1nEDl",
+          "name": "V2",
+          "index": 0,
+          "kind": "video"
+        },
+        {
+          "id": "trk_oRk8v4Af",
+          "name": "V1",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_e2U5r3uV",
+          "name": "A1",
+          "index": 2,
+          "kind": "audio"
+        }
+      ],
+      "clips": [
+        {
+          "id": "clp_ANUo9gZd",
+          "trackId": "trk_oRk8v4Af",
+          "assetId": "ast_Iv-FezwN",
+          "name": "video.mp4",
+          "start": 0,
+          "duration": 10,
+          "inPoint": 0,
+          "sourceDuration": 10,
+          "opacity": 1,
+          "x": 0,
+          "y": 0,
+          "scale": 1,
+          "rotation": 0,
+          "fadeIn": 0,
+          "fadeOut": 0,
+          "transIn": "none",
+          "transInDur": 0.5,
+          "transOut": "none",
+          "transOutDur": 0.5,
+          "loop": false,
+          "hue": 210,
+          "brightness": 1,
+          "saturation": 1,
+          "contrast": 1,
+          "temperature": 0,
+          "filter": "none",
+          "color": "#6b8aa8",
+          "src": "/uploads/vid_M0nMKHmS.mp4",
+          "text": "",
+          "fontSize": 64,
+          "fontColor": "#ffffff",
+          "align": "center",
+          "fontWeight": 700,
+          "fontFamily": "system",
+          "muted": false,
+          "audioOnly": false,
+          "volume": 1,
+          "keyframes": []
+        }
+      ],
+      "assets": [
+        {
+          "id": "ast_Iv-FezwN",
+          "name": "video.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_M0nMKHmS.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "createdAt": "2026-06-28T04:50:35.249Z",
+      "updatedAt": "2026-06-28T04:54:46.730Z"
+    },
+    {
+      "id": "prj_vNqugfH9",
+      "name": "hjh;",
+      "fps": 30,
+      "width": 1280,
+      "height": 720,
+      "tracks": [
+        {
+          "id": "trk_ba1SgNpE",
+          "name": "V2",
+          "index": 0,
+          "kind": "video"
+        },
+        {
+          "id": "trk_Ozq79rIC",
+          "name": "V1",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_hRxQf175",
+          "name": "A1",
+          "index": 2,
+          "kind": "audio"
+        }
+      ],
+      "clips": [
+        {
+          "id": "clp_GErXXOOv",
+          "trackId": "trk_Ozq79rIC",
+          "assetId": "ast_Iv-FezwN",
+          "name": "video.mp4",
+          "start": 0,
+          "duration": 10,
+          "inPoint": 0,
+          "sourceDuration": 10,
+          "opacity": 1,
+          "x": -0.001762415824915825,
+          "y": 0.00654940119760479,
+          "scale": 1,
+          "rotation": 0,
+          "fadeIn": 0,
+          "fadeOut": 0,
+          "transIn": "none",
+          "transInDur": 0.5,
+          "transOut": "none",
+          "transOutDur": 0.5,
+          "loop": false,
+          "hue": 210,
+          "brightness": 1,
+          "saturation": 1,
+          "contrast": 1,
+          "temperature": 0,
+          "filter": "none",
+          "color": "#6b8aa8",
+          "src": "/uploads/vid_M0nMKHmS.mp4",
+          "text": "",
+          "fontSize": 64,
+          "fontColor": "#ffffff",
+          "align": "center",
+          "fontWeight": 700,
+          "fontFamily": "system",
+          "muted": false,
+          "audioOnly": false,
+          "volume": 1,
+          "keyframes": []
+        }
+      ],
+      "assets": [
+        {
+          "id": "ast_Iv-FezwN",
+          "name": "video.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_M0nMKHmS.mp4",
+          "color": "#6b8aa8",
+          "duration": 10,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "createdAt": "2026-06-28T05:03:47.382Z",
+      "updatedAt": "2026-06-28T05:13:18.061Z"
+    },
+    {
+      "id": "prj_JXizpaZ-",
+      "name": "Untitled",
+      "fps": 30,
+      "width": 2560,
+      "height": 1080,
+      "tracks": [
+        {
+          "id": "trk_dBgLIm0z",
+          "name": "V2",
+          "index": 0,
+          "kind": "video"
+        },
+        {
+          "id": "trk_Dt8TAuF5",
+          "name": "V1",
+          "index": 1,
+          "kind": "video"
+        },
+        {
+          "id": "trk_DL4vrxeA",
+          "name": "A1",
+          "index": 2,
+          "kind": "audio"
+        }
+      ],
+      "clips": [
+        {
+          "id": "clp_bKC9efhO",
+          "trackId": "trk_dBgLIm0z",
+          "assetId": "ast_DAq_yyKV",
+          "name": "a2.mp4",
+          "start": 0,
+          "duration": 10.005,
+          "inPoint": 0,
+          "sourceDuration": 10.005,
+          "opacity": 1,
+          "x": 0.1796875,
+          "y": 0.2335968625498008,
+          "scale": 1,
+          "rotation": 0,
+          "fadeIn": 0,
+          "fadeOut": 0,
+          "transIn": "none",
+          "transInDur": 0.5,
+          "transOut": "none",
+          "transOutDur": 0.5,
+          "loop": false,
+          "hue": 210,
+          "brightness": 1,
+          "saturation": 1,
+          "contrast": 1,
+          "temperature": 0,
+          "filter": "none",
+          "color": "#6b8aa8",
+          "src": "/uploads/vid_Z4sTWCci.mp4",
+          "text": "",
+          "fontSize": 64,
+          "fontColor": "#ffffff",
+          "align": "center",
+          "fontWeight": 700,
+          "fontFamily": "system",
+          "muted": false,
+          "audioOnly": false,
+          "volume": 1,
+          "keyframes": [
+            {
+              "id": "kf_mqxr2129kt1qg",
+              "prop": "scale",
+              "t": 4.64160000000001,
+              "value": 1,
+              "ease": "ease"
+            },
+            {
+              "id": "kf_mqxr26yuqdeq5",
+              "prop": "scale",
+              "t": 6.92181396484375,
+              "value": 1.65,
+              "ease": "ease"
+            }
+          ]
+        }
+      ],
+      "assets": [
+        {
+          "id": "ast_JJ6DUuq_",
+          "name": "Lower third",
+          "kind": "text",
+          "color": "#d6a23a",
+          "duration": 600,
+          "text": "Name · Role"
+        },
+        {
+          "id": "ast_DAq_yyKV",
+          "name": "a2.mp4",
+          "kind": "video",
+          "url": "/uploads/vid_Z4sTWCci.mp4",
+          "color": "#6b8aa8",
+          "duration": 10.005,
+          "width": 1280,
+          "height": 720
+        }
+      ],
+      "createdAt": "2026-06-28T06:38:29.662Z",
+      "updatedAt": "2026-06-28T12:13:08.558Z"
+    }
+  ],
+  "agents": [
+    {
+      "id": "agent_head",
+      "name": "Claude Opus 4.8",
+      "kind": "claude",
+      "role": "Lead / orchestrator",
+      "status": "working",
+      "color": "#d97757",
+      "isHead": true
+    },
+    {
+      "id": "agt_PaW5p-FD",
+      "name": "Claude Worker",
+      "kind": "claude",
+      "role": "Frontend & WebGPU",
+      "status": "idle",
+      "color": "#c2845c",
+      "isHead": false
+    },
+    {
+      "id": "agt_0N53D_LJ",
+      "name": "Codex Worker",
+      "kind": "codex",
+      "role": "Backend & API",
+      "status": "idle",
+      "color": "#10a37f",
+      "isHead": false
+    },
+    {
+      "id": "agt_1YxbDA2a",
+      "name": "You",
+      "kind": "human",
+      "role": "Director",
+      "status": "idle",
+      "color": "#64748b",
+      "isHead": false
+    }
+  ],
+  "tasks": [
+    {
+      "id": "tsk_acxGVW24",
+      "title": "Stand up WebGPU compositor",
+      "detail": "Multi-layer alpha blend with per-clip opacity, transform, and fades. Canvas2D fallback.",
+      "assigneeId": "agt_PaW5p-FD",
+      "status": "done",
+      "priority": "high",
+      "tags": [
+        "render"
+      ],
+      "createdAt": "2026-06-27T03:32:31.628Z",
+      "updatedAt": "2026-06-27T03:32:31.629Z"
+    },
+    {
+      "id": "tsk_e3kvxp1n",
+      "title": "Trim handles on timeline clips",
+      "detail": "Drag edges to adjust in-point and duration, clamped to source length. Snapping to neighbors and playhead.",
+      "assigneeId": "agt_PaW5p-FD",
+      "status": "in_progress",
+      "priority": "high",
+      "tags": [
+        "timeline"
+      ],
+      "createdAt": "2026-06-27T03:32:31.629Z",
+      "updatedAt": "2026-06-27T03:32:31.629Z"
+    },
+    {
+      "id": "tsk_pLXR-5-y",
+      "title": "Clip CRUD + persistence API",
+      "detail": "REST endpoints for add / move / trim / delete, JSON-backed, broadcast over WebSocket.",
+      "assigneeId": "agt_0N53D_LJ",
+      "status": "review",
+      "priority": "high",
+      "tags": [
+        "backend"
+      ],
+      "createdAt": "2026-06-27T03:32:31.629Z",
+      "updatedAt": "2026-06-27T03:32:31.629Z"
+    },
+    {
+      "id": "tsk_Qx9zahPF",
+      "title": "Image asset upload",
+      "detail": "Upload images into the media bin and sample them as WebGPU textures.",
+      "assigneeId": "agt_0N53D_LJ",
+      "status": "queued",
+      "priority": "med",
+      "tags": [
+        "backend",
+        "render"
+      ],
+      "createdAt": "2026-06-27T03:32:31.629Z",
+      "updatedAt": "2026-06-27T03:32:31.629Z"
+    },
+    {
+      "id": "tsk_vktClprp",
+      "title": "Audio track + waveform",
+      "detail": "Add an audio track type and draw waveforms. Scoped for the next milestone.",
+      "assigneeId": null,
+      "status": "backlog",
+      "priority": "low",
+      "tags": [
+        "timeline",
+        "audio"
+      ],
+      "createdAt": "2026-06-27T03:32:31.629Z",
+      "updatedAt": "2026-06-27T03:32:31.629Z"
+    },
+    {
+      "id": "tsk_viwBqDiE",
+      "title": "Define v1 milestone scope",
+      "detail": "Head sets the build plan and hands work to the agent pool.",
+      "assigneeId": "agent_head",
+      "status": "done",
+      "priority": "high",
+      "tags": [
+        "planning"
+      ],
+      "createdAt": "2026-06-27T03:32:31.629Z",
+      "updatedAt": "2026-06-27T03:32:31.629Z"
+    }
+  ]
+}

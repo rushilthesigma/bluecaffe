@@ -1,0 +1,7 @@
+node_modules/
+web/dist/
+web/tsconfig.tsbuildinfo
+server/uploads/
+server/data/*.bak.*.json
+server/data/*.prerestart.*.json
+.DS_Store
