@@ -16,11 +16,16 @@ export function App() {
   const view = useStore((s) => s.view);
 
   useEffect(() => {
+    if (import.meta.env.VITE_OFFLINE) {
+      // Static deployment (Vercel/GH Pages) — no backend; run entirely in the browser.
+      enableLocalMode();
+      useStore.getState().applyServer(initLocal());
+      return;
+    }
     fetch('/api/state')
       .then((r) => (r.ok ? r.json() : Promise.reject()))
       .then((s) => { useStore.getState().applyServer(s); connect(); })
       .catch(() => {
-        // No server — run entirely in the browser with localStorage persistence.
         enableLocalMode();
         useStore.getState().applyServer(initLocal());
       });
