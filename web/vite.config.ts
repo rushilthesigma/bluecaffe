@@ -5,6 +5,8 @@ const API_TARGET = 'http://localhost:5401';
 
 export default defineConfig({
   plugins: [react()],
+  // On GitHub Pages the app lives at /deckstop/; locally no base is needed.
+  base: process.env.GITHUB_PAGES ? '/deckstop/' : '/',
   server: {
     port: 5400,
     strictPort: true,
